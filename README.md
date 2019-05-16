@@ -1,0 +1,1 @@
+To start the server in your terminal, run `python manage.py migrate` in the base directory
